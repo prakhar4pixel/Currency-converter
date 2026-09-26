@@ -1,6 +1,5 @@
-Here's a polished version you can drop straight into your README.md:
 
-💱 Currency Converter
+**💱 Currency Converter**
 
 A simple JavaScript project that converts currencies in real time — built to sharpen my JavaScript skills.
 
