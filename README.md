@@ -1,4 +1,3 @@
-    \
 # **💱 Currency Converter**
 
 A simple JavaScript project that converts currencies in real time — built to sharpen my JavaScript skills.
